@@ -1,4 +1,4 @@
-# Poisson processs for fun and profit
+# Poisson processes for fun and profit
 
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/nelsonuhan/poissonfun)
 
